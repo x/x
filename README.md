@@ -4,6 +4,8 @@ My name is Devon Peticolas; I'm an NYC-based software engineer who loves functio
 
 Here you’ll find my personal projects plus the teaching materials and starter repositories for courses I teach at [Columbia's Pre-College Program](https://precollege.sps.columbia.edu/person/devon-peticolas).
 
+Find a full list of work and contact information at [peticol.as](https://peticol.as)
+
 ## Columbia - Starter Repos
 
 - [Python Text Adventure Static Webpage](https://github.com/x/text-adventure-game)
