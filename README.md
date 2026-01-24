@@ -2,7 +2,7 @@
 
 My name is Devon Peticolas; I'm an NYC-based software engineer who loves functional programming, programming history, and data science.
 
-Here you’ll find my personal projects plus the teaching materials and starter repositories for courses I teach at [Columbia's Pre-College Program](https://precollege.sps.columbia.edu/person/devon-peticolas).
+Here you'll find personal projects plus materials I use when I teach at Columbia.
 
 Find a full list of work and contact information at [peticol.as](https://peticol.as)
 
