@@ -17,7 +17,7 @@ Find a full list of work and contact information at [peticol.as](https://peticol
 ## Other
 - [Conference and Meetup Slides](https://github.com/x/slides)
 - [12seasosn.nyc](https://github.com/x/nyc-seasons) ([link](https://12seasons.nyc))
-- [april25th.data](https://github.com/x/april25th.date) ([link][https://april25th.date))
+- [april25th.data](https://github.com/x/april25th.date) ([link](https://april25th.date))
 - [Draw MNST](https://github.com/x/draw-mnist) ([link](http://drawmnist.com))
 - [DnD Maps](https://github.com/x/DnD-Maps)
 - [Recurring Insurance Payment Calculator](https://github.com/x/insurance-calculator)
